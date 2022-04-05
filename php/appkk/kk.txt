@@ -1,0 +1,5 @@
+<?php
+$link = mysqli_connect("localhost", "root", "1234", "shop")
+or die("ผดิพลาด! ไมสามารถเชื่อมตอไปยังฐานขอมูลได"); 
+ mysqli_query($link, "SET NAMES utf8"); 
+ ?>
