@@ -32,7 +32,7 @@ dependencies:
   fluttertoast: ^7.1.1
   image_picker: ^0.6.7+12
   shared_preferences: ^0.5.12+4
-  dio: 
+  dio: ^5.0.1
   intl: ^0.16.1
   buddhist_datetime_dateformat: ^1.0.6
   steps_indicator: ^1.1.0
